@@ -1,0 +1,28 @@
+---
+compiled_package_info:
+  package_name: paperpaysdiamond
+  address_alias_instantiation:
+    Extensions: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_framework: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_std: "0000000000000000000000000000000000000000000000000000000000000001"
+    aptos_token: "0000000000000000000000000000000000000000000000000000000000000003"
+    core_resources: 000000000000000000000000000000000000000000000000000000000a550c18
+    gamer: 9b2a708467f204a30d36a81ecde5c61b14735667cda37d35d11e0c575aba4066
+    std: "0000000000000000000000000000000000000000000000000000000000000001"
+    vm_reserved: "0000000000000000000000000000000000000000000000000000000000000000"
+  source_digest: CCCEACABC92CA161C95573D8C0F43F67F0D0182DFDF9598EAF822236D2B1809B
+  build_flags:
+    dev_mode: false
+    test_mode: false
+    generate_docs: false
+    generate_abis: false
+    install_dir: ~
+    force_recompilation: false
+    additional_named_addresses: {}
+    architecture: ~
+    fetch_deps_only: false
+    skip_fetch_latest_git_deps: true
+dependencies:
+  - AptosFramework
+  - AptosStdlib
+  - MoveStdlib
